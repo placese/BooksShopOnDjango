@@ -1,2 +1,3 @@
-/books/store/logic.py
-/books/store/test_logic/logic.py
+books/store/logic.py
+books/store/test_logic/logic.py
+/books/htmlcov
