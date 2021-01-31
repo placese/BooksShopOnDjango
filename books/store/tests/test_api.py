@@ -5,6 +5,7 @@ from django.urls import reverse
 
 from store.models import Book
 from store.serializers import BookSerializer
+# from store.views import BookViewSet
 
 
 class BooksApiTestCase(APITestCase):
