@@ -1,1 +1,1 @@
-# BooksShopOnDjango
+# BooksShopOnDjangoRestFramework
